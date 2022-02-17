@@ -1,0 +1,21 @@
+### Vue template
+# gitignore template for Vue.js projects
+#
+# Recommended template: Node.gitignore
+
+# TODO: where does this rule come from?
+docs/_book
+
+# TODO: where does this rule come from?
+test/
+
+# TODO: dependencies
+
+node_modules
+
+# TODO: enviroments
+
+.env
+
+# TODO: idea config
+.idea
